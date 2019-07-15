@@ -1,0 +1,14 @@
+---
+layout: page
+title: Machine Learning Terms
+permalink: /ml-terms/
+---
+<p>This page introduces general terms about machine learning and data science.</p>
+
+<h2 class="term-category-header">General Terms</h2>
+{% assign sorted = (site.mlterms | sort: 'date') %}
+{% for term in sorted %}
+    <h3 class="term-name">{{ term.name }}</h2>
+    <p>{{term.content}}</p>
+    <hr>
+{% endfor %}

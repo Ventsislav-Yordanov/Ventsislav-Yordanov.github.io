@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This web application is all about **data science** and **machine learning**. I'll try to take **notes** about important terms in data science and machine learning. Sometimes, I'll create **blog posts** with **code examples**. Hope this will be helpful for me and my fans. Thank you for visiting my web application!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+All this will take time, so please be patient. Feel free to check out <a href = "https://medium.com/@ventsislav94" target = "_blank">my blog posts</a> at medium and to connect at <a href = "https://www.linkedin.com/in/ventsislav-yordanov/" target = "_blank">LinkedIn</a> if you want.
